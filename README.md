@@ -7,9 +7,7 @@
 
 ## Detailed Description
 
-This is an currency exchange application that will take in a amount in U.S dollars and convert it into a foriegn currency.  To come to this solution the application will use "exchange rate API" and javascript to provide solutions.
 
-This application
 
 
 ## Setup/Installation Requirements
